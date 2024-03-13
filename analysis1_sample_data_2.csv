@@ -1,0 +1,3 @@
+second_purchase_type,count_second_users,count_third_users,count_fourth_users,count_fifth_users,second_survival_rate,third_survival_rate,fourth_survival_rate,fifth_survival_rate
+スポット,3600,2247,1164,578,100.0,62.4,32.3,16.1
+定期,14400,12055,10948,9943,100.0,83.7,76.0,69.0
